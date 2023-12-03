@@ -1,6 +1,4 @@
-/* 
-# General
- */
+/* General */
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -346,10 +344,6 @@ h6 {
   margin-right: 8px;
 }
 
-#hero .animated {
-  animation: up-down 2s ease-in-out infinite alternate-reverse both;
-}
-
 @media (max-width: 991px) {
   #hero {
     height: 100vh;
@@ -526,15 +520,7 @@ section {
   border: 2px solid #47b2e4;
 }
 
-.about .content .btn-learn-more:hover {
-  background: #47b2e4;
-  color: #fff;
-  text-decoration: none;
-}
-
-/* 
-# Why Us
- */
+/*  Why Us */
 .why-us .content {
   padding: 60px 100px 0 100px;
 }
